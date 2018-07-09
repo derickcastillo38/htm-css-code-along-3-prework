@@ -16,7 +16,7 @@ p { /* select all <p> */
   line-height: 1.5em;
 }
 
-figcaption {
+#featured-property figure figcaption {
   font-weight: normal;
   font-size: 0.75em;
   line-height: 1.5em;
