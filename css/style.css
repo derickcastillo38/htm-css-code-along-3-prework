@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps: 400,00s');
+
 /* This is a comment! */
 
 /* CSS Syntax:
@@ -22,6 +24,6 @@ figcaption {
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
-  color: rgb(188,23,28);
+  color: #777;
   text-align: right;
 }
